@@ -1,23 +1,29 @@
+/* Styles for all elements (* global css selector)*/
 * {
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
+/* Adding some variables */
+:root{
+    --white: #ffffff;
+}
+
+/* Styles for body elements*/
 body {
     background-color: #d9dcd6;
 }
 
-/* Stayles for Header element */
+/* Styles for Header elements */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    background-color: #2a607c; 
 }
 
 header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -29,16 +35,16 @@ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
 header nav ul {
     list-style-type: none;
+    display: inline;
 }
 
-header div ul li {
-    display: inline-block;
+header ul li {
     margin-left: 25px;
 }
 
@@ -50,6 +56,13 @@ a {
 p {
     font-size: 16px;
 }
+
+
+
+
+
+
+
 
 .hero {
     height: 800px;
