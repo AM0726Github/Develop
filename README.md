@@ -33,7 +33,7 @@ Once deployed the application can be viewed in a traditional desktop web browser
 
 ## Screenshot of Web page
 
-![Web page](./assets/images/screenshot.png)
+![Web page](./assets/images/Horiseon.png)
 
 ## Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort. Specific guidance for adding the license badge and txt file was provided by Nathan Castaldi.
