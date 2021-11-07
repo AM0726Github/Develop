@@ -15,21 +15,25 @@ This project is a code refactor for the Horiseon website homepage. The purposes 
 * Comments added to delineate each separation
 * A descriptive title was added
 
-Links
+## Links
 
-Link to the deployed website
+* deployed website https://am0726github.github.io/Develop
 
-Link to the code repository
-
-Installation
-Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
+* Code repository https://github.com/AM0726Github/Develop
 
 The deployed website linked above was deployed using GitHub Pages.
 
-Usage
+## Installation
+
+Upload index.html, license.txt, and assets folder to the deployed webserver.
+The assets folder contains images and CSS files.
+
+## Usage
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
 
-screenshot of index.html
+## Screenshot of Web page
+
+![alt text](./assets/images/screenshot.png)
 
 Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort. Specific guidance for adding the license badge and txt file was provided by Nathan Castaldi.
