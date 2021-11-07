@@ -8,8 +8,8 @@
 /* Adding some variables */
 :root{
     --white: #ffffff;
-    --main-font: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    --h1-font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    --main-font: "acumin-pro", sans-serif;
+    --h1-font: "acumin-pro", sans-serif;
 }
 
 /* Styles for body elements*/
@@ -26,6 +26,7 @@ header {
 }
 
 header h1 {
+    font-weight: bolder;
     display: inline;
     font-size: 48px;
     color: #d9dcd6;
@@ -35,7 +36,7 @@ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: var(--main-font);
+    font-family: "acumin-pro", sans-serif;/*var(--main-font); */
     font-size: 20px;
 }
 
