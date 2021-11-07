@@ -33,18 +33,19 @@ Once deployed the application can be viewed in a traditional desktop web browser
 
 ## Screenshot of Web page
 
-![alt text](./assets/images/screenshot.png)
+![Web page](./assets/images/screenshot.png)
 
-Credits
+## Credits
 Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort. Specific guidance for adding the license badge and txt file was provided by Nathan Castaldi.
 
-References and tutorials utilized
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.youtube.com/watch?v=kGW8Al_cga4
-http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
-https://www.markdownguide.org/basic-syntax/
-https://masteringmarkdown.com/
-License
+## References and tutorials utilized
+
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://guides.github.com/features/mastering-markdown/#examples
+* https://www.w3schools.com/html/html_accessibility.asp
+
+## License
+
 MIT License
 
 Copyright (c) [2020] [Pete Kriengsiri]
